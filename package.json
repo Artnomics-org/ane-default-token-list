@@ -1,6 +1,6 @@
 {
   "name": "@art-economics/default-token-list",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "description": "The Art Economics default token list",
   "main": "build/ane-default.tokenlist.json",
   "scripts": {

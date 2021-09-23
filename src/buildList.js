@@ -5,7 +5,7 @@ const bsc_testnet = require('./tokens/bsc-testnet.json');
 module.exports = function buildList() {
   const parsed = version.split('.');
   return {
-    'name': 'Art Economics Default List',
+    'name': 'ANE Default List',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],
